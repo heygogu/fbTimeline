@@ -1,0 +1,49 @@
+.in-progress {
+  position: absolute;
+  right: 70%;
+  bottom: 75%;
+  top: 15%;
+  left: 25%;
+  width: 75%;
+  height: 84%;
+}
+body {
+  overflow: hidden;
+  background-color: beige;
+}
+
+.card-row {
+  height: 505px;
+}
+
+.add-task {
+  width: 80%;
+  height: 80%;
+}
+
+.delete-comp {
+  position: absolute;
+  right: 70%;
+  bottom: 75%;
+  top: 15%;
+  left: 25%;
+  width: 73%;
+  height: 84%;
+}
+
+.header {
+  position: relative;
+  left: 140px;
+  top: 30px;
+}
+
+.pagination{
+  align-self: end;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.page-link:hover{
+  cursor: pointer;
+  
+}
